@@ -1,0 +1,8 @@
+How To Use :
+
+iXpand Sync Core.a
+	To use iXpand Sync Core.a run the build.sh file to generate the app. 
+MobileVLCKit
+	Unzip the MobileVLCKit to use the MobileVLCKit framework.
+build.sh
+	The build.sh script uses the libpods provided under lib folder and the the frameworks provided under framework folder. Code signing is not included in the build.sh and you have to use your own code signing identity.
